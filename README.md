@@ -4,7 +4,7 @@ These are originally developed for a Sony A5100, converted to IR with the Life P
 All profile are partial, so they will not affect the geometry and such.
 
 # Previews
-As mentioned above these filters only act as starting points. To give an impression of how they look, here are some links to pictures on my Instagram account that were processed with these filters as starting point:
+As mentioned above these profiles only act as starting points. To give an impression of how they look, here are some links to pictures on my Instagram account that were processed based on these profiles:
 
   - ir-blue-sky-white-leaves.pp3: https://www.instagram.com/p/CD6CC0GlwCL/
   - ir-bw.pp3: https://www.instagram.com/p/CDoJQ-MFILs/
